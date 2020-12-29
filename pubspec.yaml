@@ -1,0 +1,46 @@
+name: avengers
+description: Flutter Avengers Actors and Actresses Recognizer App using Deep Learning App and Machine Learning Trained Models
+
+publish_to: 'none'
+# Join the Complete Full Course at: https://www.udemy.com/user/muhammad-ali-zeb-3/
+# Developed by Coding Cafe - alizeb875@gmail.com
+
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - images/
+
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: fonts/Signatra.ttf
+    - family: Brand Bold
+      fonts:
+        - asset: fonts/bolt-semibold.ttf
+
+
+# Join the Complete Full Course at: https://www.udemy.com/user/muhammad-ali-zeb-3/
+# Developed by Coding Cafe - alizeb875@gmail.com
